@@ -47,8 +47,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:springframeworkguru/sfg-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <developerConnection>scm:git:git@github.com:olamat/sfg-pet-clinic.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
