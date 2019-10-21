@@ -1,8 +1,5 @@
-
-# sfg-pet-clinic
-SFT Pet Clinic
-
 [![CircleCI](https://circleci.com/gh/olamat/sfg-pet-clinic/tree/master.svg?style=svg)](https://circleci.com/gh/olamat/sfg-pet-clinic/tree/master)
+# sfg-pet-clinic
 
 # Spring Framework Guru Pet Clinic
 
